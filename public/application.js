@@ -1757,7 +1757,7 @@ function number_format (number, decimals, dec_point, thousands_sep) {
     };
   }
   return this.require.define;
-}).call(this)({"backbone-min": function(exports, require, module) {// Backbone.js 0.9.1
+}).call(this)({"backbone": function(exports, require, module) {// Backbone.js 0.9.1
 
 // (c) 2010-2012 Jeremy Ashkenas, DocumentCloud Inc.
 // Backbone may be freely distributed under the MIT license.
@@ -20732,7 +20732,7 @@ var Zepto = (function() {
   });
 
 });
-}, "underscore-min": function(exports, require, module) {//     Underscore.js 1.8.3
+}, "underscore": function(exports, require, module) {//     Underscore.js 1.8.3
 //     http://underscorejs.org
 //     (c) 2009-2015 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
 //     Underscore may be freely distributed under the MIT license.
